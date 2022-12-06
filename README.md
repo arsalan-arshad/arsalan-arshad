@@ -1,4 +1,4 @@
-### <div align="center">I'm Arsalan, a full-time freelance developer 👨‍💻 working remotely since 2017 🚀.
+### <div align="center">I'm Arsalan, a full-time freelance developer 👨‍💻 working remotely since 2020 🚀.
 A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skills are web apps, mobile apps, backend, and being able to fix problematic bugs.</div>  
   
 
