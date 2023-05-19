@@ -14,7 +14,7 @@ A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skil
 <br/>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -41,7 +41,7 @@ A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skil
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -61,7 +61,7 @@ A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skil
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -77,7 +77,14 @@ A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skil
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+  <td valign="top" width="25%">
+  ### checking  
+    <div align="center"> </div>
+  </td>
+  
+  
+  </tr></table>  
 
 <br/>  
 
