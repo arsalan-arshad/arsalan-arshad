@@ -81,9 +81,6 @@ A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skil
   
 ### Freelance  
 <div align="center">
-``` 
-<script id='fiverr-seller-widget-script-b2084a85-e66e-496d-a760-4c134a079618' src='https://widgets.fiverr.com/api/v1/seller/arsalansdarshad?widget_id=b2084a85-e66e-496d-a760-4c134a079618' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
-```
   
 <div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
      <a itemprop='url' href=https://www.fiverr.com/arsalansdarshad rel="nofollow" target="_blank" style='display: inline-block;'>
