@@ -130,7 +130,7 @@ A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skil
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats-arsalan-arshad.vercel.app/api?username=arsalan-arshad&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div>  
+<div align="center">![Arsalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arsalan-arshad&show_icons=true&theme=radical)</div>  
 
 <br/>
 
