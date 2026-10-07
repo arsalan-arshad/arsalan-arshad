@@ -1,138 +1,92 @@
-### <div align="center">I'm Arsalan, a full-time freelance developer 👨‍💻 working remotely since 2019 🚀.
-A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skills are web apps, mobile apps, backend, and being able to fix problematic bugs.</div>  
-  
+<h1 align="center">Hi, I'm Arsalan 👋</h1>
 
-- 🔭 I’m currently working as a freelancer on [Fiverr](https://www.fiverr.com/arsalansdarshad?up_rollout=true) and [Upwork](https://www.upwork.com/freelancers/~016f6b130756ef1f1d)   
-  
+<h3 align="center">Senior Full Stack Engineer · Shopify & Salesforce app builder · Open-source by default</h3>
 
-- ❓ Ask me about anything related to programming, specially MERN stack, React Native(IOS ANDROID), and related technologies  
-  
+<p align="center">
+  8+ years shipping mobile, web and cloud products for startups and global clients — now building
+  an open-source portfolio of apps across <b>Shopify</b> and <b>Salesforce</b>, and the bridges between them.
+</p>
 
-- ⚡ Fun fact: I use space over spaces😂  
-  
+<p align="center">
+  <a href="https://www.linkedin.com/in/arsalandev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:arsalanarshad.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.upwork.com/freelancers/arsalandev"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>
+  <a href="https://www.toptal.com/developers/resume/arsalan-arshad"><img src="https://img.shields.io/badge/Toptal-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal"/></a>
+  <a href="https://www.fiverr.com/arsalansdarshad"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+  <a href="https://twitter.com/arsalansdArshad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Full--time%20·%20Contract%20·%20Technical%20Partner-2ea44f?style=flat-square" alt="Open to work"/>
+</p>
 
-## My Skill Set  
-<table><tr><td valign="top" width="25%">
+---
 
+## 🚀 What I've shipped
 
+### 🛒 [Agent Forecast](https://apps.shopify.com/ai-forecast-agent) — Shopify App Store · [source](https://github.com/arsalan-arshad/Ai-Agent-Shopify-App)
+Inventory demand forecasting for Shopify merchants, with an AI agent that **explains the numbers but never invents them**.
+- Deterministic forecasting engine — stockout dates and reorder suggestions computed from real order history
+- AI chat (Gemini / Claude, bring-your-own-key) that reads only from a trusted, server-built data snapshot
+- OAuth 2.0 install flow, HMAC-verified webhooks, AES-256-GCM encrypted per-merchant credentials
+- Shopify's mandatory GDPR / data-protection webhooks built in
+- **Live on the Shopify App Store · fully open source · PRs welcome**
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.gatsbyjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" /></a>  
-<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-</div>
+### ⚡ [smart-record-cloner](https://github.com/arsalan-arshad/smart-record-cloner) — Salesforce LWC utility
+1-click deep clone for Salesforce records **and their child lists** — with a Smart Date Shifter, child tagging and active-record filters. 100% free.
+- Installable package available now · AppExchange listing in Salesforce review
+- Open source (MIT), DX scratch-org workflow, CI with ESLint / Prettier / PMD + Jest / Apex tests
 
-</td><td valign="top" width="25%">
+### 🧭 Coming next — the Shopify ↔ Salesforce roadmap
+| | Project | Platform | Status |
+|---|---|---|---|
+| 01 | Smart Record Cloner | Salesforce | ✅ Shipped |
+| 02 | Clean Flow Toast & Alerts | Salesforce | 🗓️ Planned |
+| 03 | Universal Quick File Viewer | Salesforce | 🗓️ Planned |
+| 04 | **Universal Shopify ↔ Salesforce Connector** | Both | 🗓️ Planned |
+| 05 | **AI Forecast & Inventory Bridge** (Agent Forecast → Salesforce) | Both | 🗓️ Planned |
 
+Most devs pick one ecosystem. I'm building real connective tissue across both — ⭐ the repos to follow along.
 
+---
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-</div>
+## 💼 Experience highlights
 
-</td><td valign="top" width="25%">
+- **IoT & smart infrastructure** — React/Vite telemetry dashboards, Azure IoT Hub + Functions ingestion, GIS map overlays, and a drag-and-drop digital-twin configurator for electrical panels with role-based access and server-side validation
+- **Mobile at scale** — React Native apps for iOS & Android (AR, real-time video/chat, social, education) with automated Fastlane CI/CD to the App Store and Google Play
+- **Startup leadership** — led full-stack platform rebuilds as Lead Developer for sports, social and mentorship products
+- **Freelance since 2019** — 5-star delivery record on Fiverr, now on Toptal and Upwork
 
+---
 
+## 🛠️ Tech stack
 
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,react,nextjs,redux,tailwind,graphql,nodejs,nestjs,express,laravel&perline=14" alt="Languages and frameworks"/>
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,apple,mongodb,mysql,postgres,sqlite,firebase,aws,gcp,azure,docker,githubactions,jenkins&perline=14" alt="Mobile, data, cloud and DevOps"/>
+</p>
 
-</td><td valign="top" width="25%">
-  
-### Freelance  
-<div align="center">
-  
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/arsalansdarshad rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-b2084a85-e66e-496d-a760-4c134a079618' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >arsalansdarshad</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>A full-stack and enthusiastic developer serving tech and non-tech. Hands-on skills are web apps, mobile apps, backend, and being able to fix problematic bugs.</div>
-        </div>
-    </a>
-</div>
-</div>
- 
-</td></tr></table>  
+**Also:** React Native · Expo · Shopify (Remix, Polaris, Admin GraphQL) · Salesforce (LWC, Apex) · Fastlane · Railway
+**Security:** RBAC · OAuth 2.0 · HMAC webhook verification · AES-256 encryption · Azure Key Vault · audit logging
+**AI-powered workflow:** Claude Code · Cursor · Antigravity · GitHub Copilot
 
-<br/>  
+---
 
+## 📊 GitHub stats
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/arsalan-arshad" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/arsalansdArshad" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/nonstuff" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/arsalan-arshad-dev" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/arsalanarshad15" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/arsalan.dev" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/arsalan-arshad" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arsalan-arshad&show_icons=true&count_private=true&hide_border=true&theme=merko" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsalan-arshad&layout=compact&hide_border=true&theme=merko" alt="Top languages"/>
+</p>
 
-<br/>  
+---
 
+## 🤝 Let's work together
 
-## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=arsalan-arshad&show_icons=true&count_private=true&hide_border=true&theme=merko" align="center" /></div> 
+I'm open to **full-time, contract, and technical-partner roles** — especially around Shopify apps, Salesforce, React Native, or AI-assisted products.
 
-<br/>
+📫 **arsalanarshad.dev@gmail.com** · 📍 Karachi, Pakistan (UTC+5) · remote worldwide
 
-
-
+<sub>⚡ Fun fact: I use space over spaces 😂</sub>
