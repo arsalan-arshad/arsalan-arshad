@@ -68,8 +68,8 @@ Most devs pick one ecosystem. I'm building real connective tissue across both �
   <img src="https://skillicons.dev/icons?i=androidstudio,flutter,apple,mongodb,mysql,postgres,sqlite,firebase,aws,gcp,azure,docker,githubactions,jenkins&perline=14" alt="Mobile, data, cloud and DevOps"/>
 </p>
 
-**Also:** React Native · Expo · Shopify (Remix, Polaris, Admin GraphQL) · Salesforce (LWC, Apex) · Fastlane · Railway
-**Security:** RBAC · OAuth 2.0 · HMAC webhook verification · AES-256 encryption · Azure Key Vault · audit logging
+**Also:** React Native · Expo · Shopify (Remix, Polaris, Admin GraphQL) · Salesforce (LWC, Apex) · Fastlane · Railway<br/>
+**Security:** RBAC · OAuth 2.0 · HMAC webhook verification · AES-256 encryption · Azure Key Vault · audit logging<br/>
 **AI-powered workflow:** Claude Code · Cursor · Antigravity · GitHub Copilot
 
 ---
