@@ -41,8 +41,8 @@ Inventory demand forecasting for Shopify merchants, with an AI agent that **expl
 | | Project | Platform | Status |
 |---|---|---|---|
 | 01 | Smart Record Cloner | Salesforce | ✅ Shipped |
-| 02 | Clean Flow Toast & Alerts | Salesforce | 🗓️ Planned |
-| 03 | Universal Quick File Viewer | Salesforce | 🗓️ Planned |
+| 02 | Clean Flow Toast & Alerts | Salesforce | ✅ Shipped |
+| 03 | Universal Quick File Viewer | Salesforce | ✅ Shipped |
 | 04 | **Universal Shopify ↔ Salesforce Connector** | Both | 🗓️ Planned |
 | 05 | **AI Forecast & Inventory Bridge** (Agent Forecast → Salesforce) | Both | 🗓️ Planned |
 
